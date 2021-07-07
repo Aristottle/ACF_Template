@@ -76,6 +76,11 @@
 			"Name": "CombatComponents",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e03210df4bde4d52bae82459a466ff7b"
+		},
+		{
+			"Name": "PowerIK",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/product/power-ik"
 		}
 	]
 }
